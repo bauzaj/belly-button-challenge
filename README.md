@@ -3,8 +3,11 @@ Belly-Button-Challenge
 This project is called Belly-Button-Challenge, and it is an interactive dashboard that explores the microbes that colonize the human navel.
 
 **Table of Contents**
+
 [Installation](#installation)
+
 [Usage](#usage)
+
 [License](#license)
 
 Installation
