@@ -9,14 +9,15 @@ This project is called Belly-Button-Challenge, and it is an interactive dashboar
 
 **Table of Contents**
 
-[Installation](#installation)
+Installation
 
-[Usage](#usage)
+License
 
-[License](#license)
+
 
 Installation
 To use this project, you need to follow these steps:
+
 
 -Install Node.js and npm on your machine, if you haven't already done so.
 
@@ -36,14 +37,9 @@ To use this project, you need to follow these steps:
 
 
 
-Clone this repository to your local machine using the command git clone [INSERT GITHUB REPO URL HERE].
-Install any necessary dependencies using the command npm install or yarn install.
-Usage
-
-
 
 License
 This project is licensed under the MIT license. To learn more about this license, please refer to the LICENSE.md file.
 
 Credits
-Drew Wang
+Drew Hoang
